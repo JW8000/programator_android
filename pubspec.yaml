@@ -76,8 +76,8 @@ flutter:
     - family: ABeeZee
       fonts:
         - asset: fonts/ABeeZee-Regular.ttf
-        - asset: fonts/ABeeZee-Itlic.ttf
-          style: italic
+          weight: 400
+
 
   #   - family: Trajan Pro
   #     fonts:
