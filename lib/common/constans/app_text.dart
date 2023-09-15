@@ -1,40 +1,39 @@
 import 'package:flutter/material.dart';
-
-import '../app_colors/app_colors.dart';
+import 'app_colors.dart';
 
 class AppText {
   static TextStyle hint = TextStyle(
-    fontFamily: 'ABeeZee',
+    fontFamily: 'Rubik',
     fontSize: 15,
     fontWeight: FontWeight.w400,
-    color: AppColor.hint,
+    color: AppColors.hint,
   );
 
   static const TextStyle title = TextStyle(
-    fontFamily: 'ABeeZee',
+    fontFamily: 'Rubik',
     fontSize: 18,
     fontWeight: FontWeight.w400,
-    color: AppColor.text,
+    color: AppColors.text,
   );
 
   static const TextStyle textVerySmall = TextStyle(
-    fontFamily: 'ABeeZee',
+    fontFamily: 'Rubik',
     fontSize: 13,
     fontWeight: FontWeight.w400,
-    color: AppColor.text,
+    color: AppColors.text,
   );
 
   static const TextStyle button = TextStyle(
-    fontFamily: 'ABeeZee',
+    fontFamily: 'Rubik',
     fontSize: 18,
     fontWeight: FontWeight.w400,
-    color: AppColor.text,
+    color: AppColors.text,
   );
 
   static const TextStyle header = TextStyle(
-    fontFamily: 'ABeeZee',
+    fontFamily: 'Rubik',
     fontSize: 21,
     fontWeight: FontWeight.w400,
-    color: AppColor.header,
+    color: AppColors.header,
   );
 }
