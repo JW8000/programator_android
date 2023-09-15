@@ -35,10 +35,16 @@ flutter:
 
 
   fonts:
-    - family: ABeeZee
+    - family: Rubik
       fonts:
-        - asset: fonts/ABeeZee-Regular.ttf
+        - asset: fonts/Rubik-Light.ttf
+          weight: 300
+        - asset: fonts/Rubik-Regular.ttf
           weight: 400
+        - asset: fonts/Rubik-Medium.ttf
+          weight: 500
+        - asset: fonts/Rubik-Bold.ttf
+          weight: 700
 
 
 
